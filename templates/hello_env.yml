@@ -1,0 +1,5 @@
+name: hello_env
+channels:
+  - defaults
+prefix: /Users/pethomson/miniconda3/envs/hello_env
+
